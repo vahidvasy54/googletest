@@ -16,37 +16,7 @@
             "subject": "TEST MEETING",
             "description": null,
             "priority": "High"
-        },
-        {
-            "customerName": "AADHYA SHAKTI PAINTS",
-            "ticketId": 366,
-            "ticketDate": "11/07/2022",
-            "ticketStatus": "Open",
-            "ticketNumber": "CCTKT110722259",
-            "activityStatus": "New",
-            "ticketType": "Incident Management",
-            "activityDepartmentName": "Customer Support",
-            "agentName": "Vedant Pandey",
-            "assignToName": "Admin ",
-            "subject": "Updateed Ticket",
-            "description": null,
-            "priority": "High"
-        },
-        {
-            "customerName": "ARYA SANSKRITI",
-            "ticketId": 364,
-            "ticketDate": "29/06/2022",
-            "ticketStatus": "Open",
-            "ticketNumber": "CCTKT290622257",
-            "activityStatus": "Assigned",
-            "ticketType": "Incident Management",
-            "activityDepartmentName": "Quality Management",
-            "agentName": "Lalit Kulkarni",
-            "assignToName": "Ayushi Jayswal",
-            "subject": "dev done",
-            "description": null,
-            "priority": "High"
-        },
+        }
       
     ]
 }
