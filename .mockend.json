@@ -1,0 +1,22 @@
+{
+    "status": true,
+    "message": "Success!!!",
+    "response": [
+        {
+            "customerName": "ACCURATE AIRCON",
+            "ticketId": 368,
+            "ticketDate": "31/08/2022",
+            "ticketStatus": "Open",
+            "ticketNumber": "CCTKT310822261",
+            "activityStatus": "Approved",
+            "ticketType": "Incident Management",
+            "activityDepartmentName": "Quality Management",
+            "agentName": "Lalit Kulkarni",
+            "assignToName": "Ayushi Jayswal",
+            "subject": "TEST MEETING",
+            "description": null,
+            "priority": "High"
+        }
+      
+    ]
+}
